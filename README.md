@@ -1,13 +1,13 @@
 # Zusty
 
-ZustyMiddlewareTS is a middleware designed for Zusty, a Zustand Dev Tool, to facilitate the debugging of state management in your applications.
+ZustyMiddlewareTS is a middleware designed for Zusty, a Zustand Dev Tool, to facilitate the debugging of state management in your TypeScript applications.
 
 ## Installation
 
 Use the package manager to install zustymiddleware.
 
 ```bash
-npm i zustymiddleware
+npm i zustymiddlewarets
 ```
 
 ## Usage
