@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DanaKaplan944/ZustyMiddleware.git"
+    "url": "git+https://github.com/DanaKaplan944/ZustyMiddlewareTS"
   },
   "author": "Dana Kaplan, Nancy Huang, Adrian Insingo, Brian Lee, William Kil",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/DanaKaplan944/ZustyMiddleware/issues"
+    "url": "https://github.com/DanaKaplan944/ZustyMiddlewareTS/issues"
   },
-  "homepage": "https://github.com/DanaKaplan944/ZustyMiddleware#readme"
+  "homepage": "https://github.com/DanaKaplan944/ZustyMiddlewareTS#readme"
 }
