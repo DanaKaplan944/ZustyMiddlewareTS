@@ -12,7 +12,7 @@ npm i zustymiddlewarets
 
 ## Usage
 
-1. Import zustymiddleware at the top of your file
+1. Import zustymiddlewarets at the top of your file
 2. Wrap your store in the middleware
 3. Before you export your store, add window.store = < your store name>
 

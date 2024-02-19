@@ -1,6 +1,6 @@
 {
   "name": "zustymiddlewarets",
-  "version": "1.2.0",
+  "version": "1.4.1",
   "description": "Middleware for Zusty - a Zustand Dev Tool ",
   "main": "index.ts",
   "scripts": {
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DanaKaplan944/ZustyMiddlewareTS/issues"
   },
-  "homepage": "https://github.com/DanaKaplan944/ZustyMiddlewareTS#readme"
+  "homepage": "https://github.com/DanaKaplan944/ZustyMiddlewareTS#readme",
+  "dependencies": {
+    "zustand": "^4.5.1"
+  }
 }
