@@ -18,7 +18,6 @@ export default function zustyMiddleware<T extends object>(
         store[key] = (...args: any[]) => {
           const prevState = get();
           const startTime = performance.now();
-          å;
           originalFunction(...args);
           const endTime = performance.now();
           const nextState = get();
